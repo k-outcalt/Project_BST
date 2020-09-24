@@ -26,4 +26,5 @@ How to run the project
  
  ![Image of the BST]
  (https://raw.githubusercontent.com/k-outcalt/Project_BST/blob/master/bst_visual.pdf)
+ <img src="./bst_visual.pdf">
  
