@@ -25,5 +25,5 @@ How to run the project
  * Once compile, type: `./a.out` to see what was printed on the console
  
  ![Image of the BST]
- (https://github.com/k-outcalt/Project_BST/blob/master/bst_visual.pdf)
+ (https://raw.githubusercontent.com/k-outcalt/Project_BST/blob/master/bst_visual.pdf)
  
