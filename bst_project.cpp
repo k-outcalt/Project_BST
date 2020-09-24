@@ -42,7 +42,7 @@ int main()
     myTree.insert(treeArray[i]); 
   }
 
-  cout << endl << "Welcome to p3! " << endl; 
+  cout << endl << "Welcome to the Binary Search Tree Project. " << endl; 
   cout << "Creating a Tree object called \"myTree\"..." << endl << endl; 
 
   cout << "Adding 28 random numbers to the tree, inserting 11 twice to test ";
@@ -115,7 +115,7 @@ int main()
   cout << endl << "newTree: " << endl; 
   newTree.postorder(); 
 
-  cout << endl << endl << "End of p3. Goodbye!" << endl << endl; 
+  cout << endl << endl << "End of BST project. Goodbye!" << endl << endl; 
 
   return 0;
 }
